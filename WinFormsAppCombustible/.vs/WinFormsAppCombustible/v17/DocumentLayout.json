@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\tareas\\tarea_formulario\\WinFormsAppCombustible\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBF801B-01BD-449A-A7BA-D6E7F710DC93}|WinFormsAppCombustible\\WinFormsAppCombustible.csproj|c:\\users\\acer\\source\\repos\\tareas\\tarea_formulario\\winformsappcombustible\\winformsappcombustible\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CBF801B-01BD-449A-A7BA-D6E7F710DC93}|WinFormsAppCombustible\\WinFormsAppCombustible.csproj|solutionrelative:winformsappcombustible\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBF801B-01BD-449A-A7BA-D6E7F710DC93}|WinFormsAppCombustible\\WinFormsAppCombustible.csproj|c:\\users\\acer\\source\\repos\\tareas\\tarea_formulario\\winformsappcombustible\\winformsappcombustible\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBF801B-01BD-449A-A7BA-D6E7F710DC93}|WinFormsAppCombustible\\WinFormsAppCombustible.csproj|solutionrelative:winformsappcombustible\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\tareas\\tarea_formulario\\WinFormsAppCombustible\\WinFormsAppCombustible\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppCombustible\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\tareas\\tarea_formulario\\WinFormsAppCombustible\\WinFormsAppCombustible\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsAppCombustible\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:00:49.994Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\tareas\\tarea_formulario\\WinFormsAppCombustible\\WinFormsAppCombustible\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppCombustible\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\tareas\\tarea_formulario\\WinFormsAppCombustible\\WinFormsAppCombustible\\Form1.cs",
+              "RelativeToolTip": "WinFormsAppCombustible\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:15:44.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\bin\Debug\net8.0-windows\WinFormsAppCombustible.exe
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\bin\Debug\net8.0-windows\WinFormsAppCombustible.deps.json
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\bin\Debug\net8.0-windows\WinFormsAppCombustible.runtimeconfig.json
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\bin\Debug\net8.0-windows\WinFormsAppCombustible.dll
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\bin\Debug\net8.0-windows\WinFormsAppCombustible.pdb
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.Form1.resources
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.AssemblyInfo.cs
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.dll
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\refint\WinFormsAppCombustible.dll
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.pdb
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.genruntimeconfig.cache
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\ref\WinFormsAppCombustible.dll
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCombustible\WinFormsAppCombustible\obj\Debug\net8.0-windows\WinFormsAppCombustible.sourcelink.json
