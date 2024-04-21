@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\bin\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.exe
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\bin\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.deps.json
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\bin\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.runtimeconfig.json
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\bin\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.dll
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\bin\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.pdb
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.Form1.resources
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.AssemblyInfo.cs
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.sourcelink.json
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.dll
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\refint\WinFormsAppCalculadora_viajes.dll
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.pdb
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\WinFormsAppCalculadora_viajes.genruntimeconfig.cache
+C:\Users\ACER\source\repos\tareas\tarea_formulario\WinFormsAppCalculadora_viajes\WinFormsAppCalculadora_viajes\obj\Debug\net8.0-windows\ref\WinFormsAppCalculadora_viajes.dll
